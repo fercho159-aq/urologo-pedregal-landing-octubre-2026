@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/urologo-pedregal/index.html" },
+    { "source": "/cirugias", "destination": "/urologo-pedregal/cirugias/index.html" },
+    { "source": "/cirugias/", "destination": "/urologo-pedregal/cirugias/index.html" }
+  ]
+}
